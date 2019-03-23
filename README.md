@@ -14,7 +14,7 @@ A curated list of awesome baseband research resources. Inspired by
 
 
 ## Research
-+[iPhone Baseband Research + Reversing by Sem Voigtländer](https://www.youtube.com/watch?v=Mwh1PsfEerw)[2019]
++ [iPhone Baseband Research + Reversing by Sem Voigtländer](https://www.youtube.com/watch?v=Mwh1PsfEerw)[2019]
 
 + [The baseband Basics](https://github.com/comaeio/OPCDE/blob/master/2018/Kenya/Charles%20Nitay%20Anna%20-%20The%20Baseband%20Basics.pdf) [2018]
 
@@ -28,9 +28,9 @@ A curated list of awesome baseband research resources. Inspired by
 
 + [DeepSec 2010: All your baseband are belong to us](https://www.youtube.com/watch?v=fQqv0v14KKY)[2014]
 
-+[30C3: Baseband Exploitation in 2013 (EN)](https://www.youtube.com/watch?v=sD-EXDOoZs4)[2013]
++ [30C3: Baseband Exploitation in 2013 (EN)](https://www.youtube.com/watch?v=sD-EXDOoZs4)[2013]
 
-+[DEF CON 26 - Seamus Burke - A Journey Into Hexagon Dissecting a Qualcomm Baseband](https://www.youtube.com/watch?v=U_awEXRp72k)[2018]
++ [DEF CON 26 - Seamus Burke - A Journey Into Hexagon Dissecting a Qualcomm Baseband](https://www.youtube.com/watch?v=U_awEXRp72k)[2018]
 
 +[28C3: Reverse-engineering a Qualcomm baseband (en)](https://www.youtube.com/watch?v=UOL5actJHVk)[2012]
 
