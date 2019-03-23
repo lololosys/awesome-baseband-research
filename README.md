@@ -24,7 +24,6 @@ A curated list of awesome baseband research resources. Inspired by
 
 + [From Ø to Infinity] (https://docs.google.com/presentation/d/19A1JWyOTueZvD8AksqCxtxriNJJgj0vPdq3cNTwndf4/edit#slide=id.g35506ef05e_0_0) [2018]
 
-
 + [A walk with Shannon: A walkthrough of a pwn2own baseband exploit] (https://www.youtube.com/watch?v=6bpxrfB9ioo) [2018]
 
 + [DeepSec 2010: All your baseband are belong to us] (https://www.youtube.com/watch?v=fQqv0v14KKY)[2014]
