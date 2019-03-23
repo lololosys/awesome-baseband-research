@@ -34,3 +34,7 @@ A curated list of awesome baseband research resources. Inspired by
 
 + [28C3: Reverse-engineering a Qualcomm baseband (en)](https://www.youtube.com/watch?v=UOL5actJHVk)[2012]
 
++ [Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular](https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)[2012]
+
++ [Helpful scripts for various tasks performed during reverse engineering the Shannon Baseband with the goal to exploit the Samsung Galaxy S6](https://github.com/Comsecuris/shannonRE)
+
