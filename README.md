@@ -12,6 +12,7 @@ A curated list of awesome baseband research resources. Inspired by
 
 ## Setup
 + [Helpful scripts for various tasks performed during reverse engineering the Shannon Baseband with the goal to exploit the Samsung Galaxy S6](https://github.com/Comsecuris/shannonRE)
++ [Exploring Qualcomm Baseband via ModKit](https://cansecwest.com/slides/2018/Exploring%20Qualcomm%20Baseband%20via%20ModKit%20-%20Peter%20Pi,%20XiLing%20Gong,%20and%20Gmxp,%20Tencent%20Security%20Platform%20Department.pdf)[2018]
 
 
 ## Research
