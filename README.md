@@ -32,5 +32,5 @@ A curated list of awesome baseband research resources. Inspired by
 
 + [DEF CON 26 - Seamus Burke - A Journey Into Hexagon Dissecting a Qualcomm Baseband](https://www.youtube.com/watch?v=U_awEXRp72k)[2018]
 
-+[28C3: Reverse-engineering a Qualcomm baseband (en)](https://www.youtube.com/watch?v=UOL5actJHVk)[2012]
++ [28C3: Reverse-engineering a Qualcomm baseband (en)](https://www.youtube.com/watch?v=UOL5actJHVk)[2012]
 
