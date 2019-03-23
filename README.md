@@ -22,13 +22,13 @@ A curated list of awesome baseband research resources. Inspired by
 
 + [There's Life in the Old Dog Yet: Tearing New Holes into Intel/iPhone Cellular Modem](https://comsecuris.com/blog/posts/theres_life_in_the_old_dog_yet_tearing_new_holes_into_inteliphone_cellular_modems/) [2018]
 
-+ [From Ø to Infinity] (https://docs.google.com/presentation/d/19A1JWyOTueZvD8AksqCxtxriNJJgj0vPdq3cNTwndf4/edit#slide=id.g35506ef05e_0_0) [2018]
++ [From Ø to Infinity](https://docs.google.com/presentation/d/19A1JWyOTueZvD8AksqCxtxriNJJgj0vPdq3cNTwndf4/edit#slide=id.g35506ef05e_0_0) [2018]
 
-+ [A walk with Shannon: A walkthrough of a pwn2own baseband exploit] (https://www.youtube.com/watch?v=6bpxrfB9ioo) [2018]
++ [A walk with Shannon: A walkthrough of a pwn2own baseband exploit](https://www.youtube.com/watch?v=6bpxrfB9ioo) [2018]
 
-+ [DeepSec 2010: All your baseband are belong to us] (https://www.youtube.com/watch?v=fQqv0v14KKY)[2014]
++ [DeepSec 2010: All your baseband are belong to us](https://www.youtube.com/watch?v=fQqv0v14KKY)[2014]
 
-+[30C3: Baseband Exploitation in 2013 (EN)] (https://www.youtube.com/watch?v=sD-EXDOoZs4)[2013]
++[30C3: Baseband Exploitation in 2013 (EN)](https://www.youtube.com/watch?v=sD-EXDOoZs4)[2013]
 
 +[DEF CON 26 - Seamus Burke - A Journey Into Hexagon Dissecting a Qualcomm Baseband](https://www.youtube.com/watch?v=U_awEXRp72k)[2018]
 
