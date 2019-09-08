@@ -17,6 +17,9 @@ A curated list of awesome baseband research resources. Inspired by
 
 
 ## Research
+
++ [Baseband Security Research Playlist by r00tb3](https://www.youtube.com/playlist?list=PLktKStRxdIxb-HwHL2fwSXzG76LuoAJyp)[2019]
+
 + [iPhone Baseband Research + Reversing by Sem Voigtländer](https://www.youtube.com/watch?v=Mwh1PsfEerw)[2019]
 
 + [The baseband Basics](https://github.com/comaeio/OPCDE/blob/master/2018/Kenya/Charles%20Nitay%20Anna%20-%20The%20Baseband%20Basics.pdf) [2018]
