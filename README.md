@@ -29,6 +29,8 @@ A curated list of awesome baseband research resources. Inspired by
 
 + [A walk with Shannon: A walkthrough of a pwn2own baseband exploit](https://www.youtube.com/watch?v=6bpxrfB9ioo) [2018]
 
++ [Breaking Band (Shannon Baseband)](https://www.youtube.com/watch?v=o280NiZjNu8) ([Slides](https://comsecuris.com/slides/recon2016-breaking_band.pdf)) [RECon 2016]
+
 + [DeepSec 2010: All your baseband are belong to us](https://www.youtube.com/watch?v=fQqv0v14KKY)[2014]
 
 + [30C3: Baseband Exploitation in 2013 (EN)](https://www.youtube.com/watch?v=sD-EXDOoZs4)[2013]
